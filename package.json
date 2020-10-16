@@ -1,8 +1,7 @@
 {
 	
 "name": "loveonnsolar",
-	"version":"0.1",
-	"main": "run.js",
+"main": "run.js",
 "scripts":{
 	"start": "node run.js"
 },
