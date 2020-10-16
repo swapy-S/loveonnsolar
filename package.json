@@ -2,7 +2,7 @@
 	
 	   "name": "node-js-getting-started",
 	"version": "0.1.5",
-	"main": "run.js",
+	"main": "app/run.js",
 	"scripts":{
 		"start": "node run.js"
 		},
