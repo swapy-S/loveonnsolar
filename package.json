@@ -1,12 +1,11 @@
 {
-	
-"name": "node-js-getting-started",
-	"version": "0.1.5",
-	"main": "run.js",
-	"scripts":{
-		"start": "node run.js"
-		},
-
+  "name": "node-js-getting-started",
+  "version": "1.6.0",
+  "main": "run.js",
+  "scripts":{
+    "test": "echo\"Error: no test specified\" && exit 1",
+    "start": "node run.js"
+    },
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
@@ -49,9 +48,9 @@
       "resolved": "https://registry.npmjs.org/encodeurl/-/encodeurl-1.0.2.tgz",
       "integrity": "sha1-rT/0yG7C0CkyL1oCw6mmBslbP1k="
     },
-	"engines": {
-		  "node": "11.6.0"
-	  },
+    "engines": {
+      "node": "11.6.0"
+    },
     "escape-html": {
       "version": "1.0.3",
       "resolved": "https://registry.npmjs.org/escape-html/-/escape-html-1.0.3.tgz",
