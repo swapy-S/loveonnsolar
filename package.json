@@ -1,10 +1,11 @@
 {
 	
-"name": "loveonnsolar",
-"main": "run.js",
-"scripts":{
-	"start": "node run.js"
-},
+"name": "node-js-getting-started",
+	"version": "0.1.5",
+	"main": "run.js",
+	"scripts":{
+		"start": "node run.js"
+		},
 
   "requires": true,
   "lockfileVersion": 1,
