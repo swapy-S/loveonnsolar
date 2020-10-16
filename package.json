@@ -1,11 +1,12 @@
 {
 	
-	   "name": "loveonnsolar",
+"name": "loveonnsolar",
+	"version":"0.1",
 	"main": "run.js",
-	"scripts":{
-		"start": "node run.js"
-		},
- 
+"scripts":{
+	"start": "node run.js"
+},
+
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
